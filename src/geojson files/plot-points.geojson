@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "name": "plot-points",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "S.No": 1,
+        "Lat / Y": 23.350513842898543,
+        "Lon / X": 58.426926051934323,
+        "icon": "https://freerangestock.com/templates/v5/images/FRS-Tbird_logo_SM.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.426926051934323, 23.350513842898543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "S.No": 2,
+        "Lat / Y": 23.341727276302617,
+        "Lon / X": 58.408892695063727,
+        "icon": "https://freerangestock.com/templates/v5/images/FRS-Tbird_logo_SM.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.408892695063727, 23.341727276302617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "S.No": 3,
+        "Lat / Y": 23.347664163361042,
+        "Lon / X": 58.406306151797395,
+        "icon": "https://freerangestock.com/templates/v5/images/FRS-Tbird_logo_SM.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.406306151797395, 23.347664163361042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "S.No": 4,
+        "Lat / Y": 23.353525241976538,
+        "Lon / X": 58.411842536122592,
+        "icon": "https://freerangestock.com/templates/v5/images/FRS-Tbird_logo_SM.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.411842536122592, 23.353525241976538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "S.No": 5,
+        "Lat / Y": 23.354800116481059,
+        "Lon / X": 58.416556473577813,
+        "icon": "https://freerangestock.com/templates/v5/images/FRS-Tbird_logo_SM.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58.416556473577813, 23.354800116481059]
+      }
+    }
+  ]
+}

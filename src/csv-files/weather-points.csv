@@ -1,0 +1,62 @@
+Name,AR Name,cccc,City Forecast Name,Metar Avail,iii,Lat,Lon,Elev
+Khasab Port,ميناء خصب,OOKP,Khasab_Port,true,41240,26.2105,56.244,4
+Khasab Airport,مطار خصب,OOKB,Khassab_Airport,true,41241,26.161722,56.23672,29
+Diba,دبا,OODB,Dibba,true,41242,25.615627,56.247322,10
+Buraimi,البريمي,OOBR,Buraimi,true,41244,24.233913,55.916176,372
+Sohar (Majis),صحار ( مجيس ),OOMJ,Sohar_Majis,true,41246,24.467443,56.64443,2
+Sunaynah,السنينه,OOSN,Sunaynah,true,41250,23.722584,55.90597,257
+Saiq,سيق,OOQQ,Saiq,true,41251,23.073973,57.666527,1995
+Ibri,عبري,OOIB,Ibri,true,41252,23.195417,56.429443,323
+Rustaq,الرستاق,OORQ,Rustaq,true,41253,23.40925,57.42861,322
+Nizwa,نزوى,OONZ,Nizwa,true,41255,22.859076,57.546295,462
+Muscat Intl Airport,مطار مسقط الدولي,OOMS,Muscat,true,41256,23.608644,58.261444,2
+Samail,سمائل,OOSM,Samail,true,41257,23.309,57.948055,417
+Sultan Qaboos Port,ميناء السلطان قابوس,OOMQ,Qaboos_Port,true,41258,23.627453,58.572414,3
+Jabal Shams,جبل شمس,OOJS,Jabal_Shams,true,41259,23.238028,57.264942,2764
+Fahud,فهود,OOFD,Fahud,true,41262,22.347534,56.49026,168
+Bahla,بهلاء,OOBH,Bahla,true,41263,22.993221,57.31592,592
+Adam Airport,مطار أدم,OOAD,Adam,true,41264,22.499825,57.370068,328
+Ibra,إبراء,OOIR,Ibra,true,41265,22.740444,58.50525,469
+Qalhat,قلهات,OOQL,Qalhat,true,41267,22.6654,59.401917,11
+Sur,صور,OOSR,Sur,true,41268,22.515434,59.433685,41
+Ras Al Hadd,رأس الحد,OORH,Ras_Hadd,true,41270,22.301111,59.8175,43
+Suwaiq,السويق,OOSW,Suwiq,true,41272,23.826519,57.280132,39
+Qarn Alam,قرن العلم,OOGB,Qarn_Alam,true,41275,21.37545,57.053635,133
+Zamaim,الزمايم,OOUZ,Zamaim,true,41276,20.794722,57.1165,126
+Al Amerat,العامرات,OOAM,AL_Amerat,true,41280,23.50081,58.480835,105
+Mhout (Joba),محوت ( جوبه ),OOJB,Mhout,true,41287,20.867916,58.24758,34
+Masirah,مصيره,OOMA,Masirah,true,41288,20.671509,58.88895,19
+Duqm Airport,مطار الدقم,OODQ,Duqam_Airport,true,41291,19.511417,57.657333,102
+Duqm Port,ميناء الدقم,OODP,Duqm_Port,true,41296,19.686275,57.726887,3
+Al Mudhaibi,المضيبي,OOMB,Mudhebi,true,41292,22.511528,58.12472,378
+Bidiya,بديه,OOBD,Bidiya,true,41293,22.462828,58.854675,316
+Yaaloni,جعلوني,OOYA,Yaaloni,true,41295,19.944332,57.102554,156
+Haima,هيما,OOHA,Haima,true,41301,20.057861,56.38325,146
+Marmul,مرمول,OOMX,Marmul,true,41304,18.141079,55.18047,273
+Salalah Port,مينا صلاله,OORA,Salalah_Port,true,41312,16.9345,54.00825,25
+Thumrait,ثمريت,OOTH,Thumrait,true,41314,17.680994,54.02413,448
+Qairoon Hairiti,قيرون حيريتي,OOQH,Qairoon_Hairiti,true,41315,17.2528,54.089184,881
+Salalah Airport,مطار صلاله,OOSA,Salalah,true,41316,17.043842,54.10235,23
+Sadah,سدح,OOSD,Sadah,true,41318,17.05,55.067,20
+Madha,مدحا,OOMD,Madha,true,41245,25.3,56.28,440
+Bukha,بخا,OOBA,Bukha,true,41290,26.14014,56.1435,21
+Mhada,محضه,OOMH,Mhada,true,41261,24.3999,55.9798,438
+Yanqul,ينقل,OOYQ,Yanqual,true,41248,23.5896,56.5486,557
+Shinas,شناص,OOSI,Shinas,true,41260,24.73,56.46,2
+Saham,صحم,OOSS,Saham,true,41266,24.1505,56.8356,24
+Liwa,لوى,OOLW,Liwa,true,41271,24.533,56.55,17
+Al Khaburah,الخابوره,OOKR,Al Khaburah,true,41274,23.99,57.09,4
+Muscat,مسقط,OOMC,Muscat_City,false,41278,23.613,58.593,7
+Bawshar,بوشر,OOBS,Bawshar,true,41279,23.48438,58.25435,145
+Qurayyat,قريات,OOQR,Qurayyat,true,41281,23.21972,58.8989,4
+Al Hamra,الحمراء,OOAH,Al Hamra,true,41282,23.4833,57,816
+Izki,إزكي,OOIZ,Izki,true,41284,23.033,57.9833,763
+Bidbid,بدبد,OOBI,Bidbid,true,41285,23.4,58.1166,225
+Dhalkut,ضلكوت,OODK,Dhalkut,true,41306,16.7054,53.2459,22
+Taqah,طاقة,OOTQ,Taqah,true,41307,17.037,54.404,18
+Muqshin,مقشن,OOMI,Muqshin,true,41308,19.565,54.8901,130
+Mirbat,مرباط,OOMT,Mirbat,true,41309,16.989,54.692,9
+Shalim,شليم,OOSL,Shalim,true,41310,18.1166,55.633,8
+Al Hallaniyyat,الحلانيات,OOHL,Halaniyat,true,41317,17.5,55.966,16
+Al Mazyunah,المزيونة,OOMZ,AL_mazyunh,true,41311,17.8425,52.6578,499
+Hamra aldrooa,حمراء الدروع,OOHD,Hamra_ad_Duru,true,41305,22.775082,55.813705,144
